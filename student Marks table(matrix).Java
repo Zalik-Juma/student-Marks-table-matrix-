@@ -1,6 +1,6 @@
 /*
 *Name:Zalik Barasa Juma
-*Reg No: J77-10594-2024m
+*Reg No: J77-10594-2024
 *Description: Program for student Marks table(matrix)
 */
 public class StudentMarksTable {
@@ -35,3 +35,4 @@ public class StudentMarksTable {
     }
 
 }
+
