@@ -1,7 +1,7 @@
 /*
 *Name:Zalik Barasa Juma
 *Reg No: J77-10594-2024m
-*Description: Program for student Mark table(matrix)
+*Description: Program for student Marks table(matrix)
 */
 public class StudentMarksTable {
     public static void main(String[] args) {
@@ -33,4 +33,5 @@ public class StudentMarksTable {
         System.out.println("\nAverage marks for Student 3: " + 
                          String.format("%.2f", average));
     }
+
 }
